@@ -1,0 +1,7 @@
+.removeBtn {
+    display: inline-block;
+    padding: 20px;
+    background: url("../../assets/trash.svg") center no-repeat, transparent;
+    border: none;
+    cursor: pointer;
+}
